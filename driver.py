@@ -13,9 +13,18 @@ def read_directory(mypath):
 
 # Function you will be working with
 def create_knowledge_graph(contents_of_input_file, name_of_input_file):
-    # Through this function you have to use the contents of each file to create a knowledge graph
-    # The output has to be saved in the data/output folder with the same name as data/input file
-    # Note the writing to file has to be handled by you.
+    <module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 2.7.13 (C:\Python27\python.exe)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="true" />
+  </component>
+  <component name="TestRunnerService">
+     <option name="projectConfiguration" value="Nosetests" />
+     <option name="PROJECT_TEST_RUNNER" value="Nosetests" />
+   </component>
+ </module>
     pass
 
 #Main function
